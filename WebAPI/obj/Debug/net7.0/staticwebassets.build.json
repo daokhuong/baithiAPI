@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "UcpBOFXJ7ZafSzvn6nRiqz4mVT9MqORTWgnsLkozfds=",
+  "Source": "WebAppAPITest",
+  "BasePath": "_content/WebAppAPITest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAppAPITest\\wwwroot",
+      "Source": "WebAppAPITest",
+      "ContentRoot": "D:\\SEM3\\c#\\WedAPI\\WebAppAPITest\\WebAppAPITest\\wwwroot\\",
+      "BasePath": "_content/WebAppAPITest",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\SEM3\\c#\\WedAPI\\WebAppAPITest\\WebAppAPITest\\wwwroot\\index.html",
+      "SourceId": "WebAppAPITest",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SEM3\\c#\\WedAPI\\WebAppAPITest\\WebAppAPITest\\wwwroot\\",
+      "BasePath": "_content/WebAppAPITest",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\SEM3\\c#\\WedAPI\\WebAppAPITest\\WebAppAPITest\\wwwroot\\JavaScript.js",
+      "SourceId": "WebAppAPITest",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SEM3\\c#\\WedAPI\\WebAppAPITest\\WebAppAPITest\\wwwroot\\",
+      "BasePath": "_content/WebAppAPITest",
+      "RelativePath": "JavaScript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\JavaScript.js"
+    },
+    {
+      "Identity": "D:\\SEM3\\c#\\WedAPI\\WebAppAPITest\\WebAppAPITest\\wwwroot\\Style.css",
+      "SourceId": "WebAppAPITest",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SEM3\\c#\\WedAPI\\WebAppAPITest\\WebAppAPITest\\wwwroot\\",
+      "BasePath": "_content/WebAppAPITest",
+      "RelativePath": "Style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style.css"
+    }
+  ]
+}

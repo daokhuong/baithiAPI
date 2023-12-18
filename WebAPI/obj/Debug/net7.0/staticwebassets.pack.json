@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SEM3\\c#\\WedAPI\\WebAppAPITest\\WebAppAPITest\\wwwroot\\JavaScript.js",
+      "PackagePath": "staticwebassets\\JavaScript.js"
+    },
+    {
+      "Id": "D:\\SEM3\\c#\\WedAPI\\WebAppAPITest\\WebAppAPITest\\wwwroot\\Style.css",
+      "PackagePath": "staticwebassets\\Style.css"
+    },
+    {
+      "Id": "D:\\SEM3\\c#\\WedAPI\\WebAppAPITest\\WebAppAPITest\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebAppAPITest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebAppAPITest.props",
+      "PackagePath": "build\\WebAppAPITest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAppAPITest.props",
+      "PackagePath": "buildMultiTargeting\\WebAppAPITest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebAppAPITest.props",
+      "PackagePath": "buildTransitive\\WebAppAPITest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
